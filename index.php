@@ -3,15 +3,71 @@
 require __DIR__ . '/autoload.php';
 
 
+
+
+
+
+
+
+
+
+
+/** @var
+ * Lesson 3
+ * 8 object
+ * $table */
+//$table = new \Controllers\Table();
+//$table -> size = '1.2 x 1.5 x 0.8';
+//$table -> color = "dark venge";
+//$table -> material = 'tree and iron';
+//$table -> actionShowParams();
+
+
+
+
+
+
+/** @var
+ * Lesson 3
+ * 7 object
+ * $batery */
+//$batery = new \Controllers\Batery();
+//$batery -> size = 'AAA';
+//$batery -> voltage = 1.2;
+//$batery -> capacity = 2700;
+//$batery -> actionShowParams();
+
+
+
+
+
+/** @var
+ * Lesson 3
+ *6 object
+ * $phone */
+//$phone = new \Controllers\Phone();
+//$phone -> manufacturer = 'LG';
+//$phone -> size = '940x480';
+//$phone -> color = 'cyan';
+//$phone -> actionTakeCall();
+//$phone -> actionEndCall();
+//$phone -> actionShowParams();
+
+
+
+
+
+
+
 /** @var
  * Lesson 3
  * 5 object
  * $calc */
-$calc = new \Controllers\Calculator();
-$calc -> summ();
-$calc -> sub();
-$calc -> multpl();
-$calc -> diff();
+//$calc = new \Controllers\Calculator();
+//$calc -> summ();
+//$calc -> sub();
+//$calc -> multpl();
+//$calc -> diff();
 
 
 
