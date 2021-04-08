@@ -12,6 +12,12 @@ class Printer
     public $speedPrinting;
 
 
+    public function __construct($manufacture, $colorGamma, $speedPrinting)
+    {
+
+    }
+
+
     public function on() {
         echo "printer on";
         echo "<br>";
