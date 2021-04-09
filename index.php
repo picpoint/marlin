@@ -1,5 +1,7 @@
 <?php
 
+error_reporting(E_ALL);
+
 require __DIR__ . '/autoload.php';
 
 
@@ -9,6 +11,23 @@ require __DIR__ . '/autoload.php';
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+//$printer = new \Controllers\Printer("HP", "BLACK", "15 page/min");
+//$printer->showParams();
+//echo "<br>";
+//echo "<br>";
+//$printer->actionChangeSpeedPrinting(20);
+//$printer->showParams();
 
 
 
